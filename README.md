@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mathucode
-- 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently learning DevOps tools and cloud solutions
-- 💞️ I’m looking to collaborate on people who are interested in DevOps culture and projects.
+- 👀 I’m interested in Data Analysis and Cloud
+- 🌱 I’m currently learning Data modeling and Bussiness solutions
+- 💞️ I’m looking to collaborate on people who are interested in Data Analysis and projects.
 - 📫 How to reach me mathumitha.srinivasan@gmail.com
 
 <!---
